@@ -3,7 +3,7 @@ THIS IS A BATCH FILE THAT SCANS THE FOLDER TREE AND COMPRESSES ALL VIDEOS OF THE
 //////////////////////////
 
 HOW TO INSTALL :
-1. Copy the `FFmpeg` folder to your local disk C:\
+1. Copy the `FFmpeg` folder to your local disk C:\  ([Download Link](https://ffmpeg.org/download.html))
 2. Add the bin folder (C:\FFmpeg\bin) to the PATH (System variables)
 
 HOW TO RUN :
