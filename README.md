@@ -1,17 +1,18 @@
-//////////////////////////
+////////////////////////// <br>
 THIS IS A BATCH FILE THAT SCANS THE FOLDER TREE AND COMPRESSES ALL VIDEOS OF THE SPECIFIED FILE FORMATS (ex. *.avi, *.mp4 ...)
-//////////////////////////
+////////////////////////// <br>
 
 HOW TO INSTALL :
-1. Copy the `FFmpeg` folder to your local disk C:\  ([Download Link](https://ffmpeg.org/download.html))
+1. Copy the `FFmpeg` ([Download Link](https://ffmpeg.org/download.html)) folder to your local disk C:\  
 2. Add the bin folder (C:\FFmpeg\bin) to the PATH (System variables)
 
 HOW TO RUN :
 -Just run the `compress.bat` file
 
-/////////////
-   NOTES
-/////////////
+///////////// <br>
+   NOTES <br>
+/////////////  <br>
+
 %%x > Represents the absolute path of the file (including the file name)
 %%~nx > Represents the file name without the file type ending 
 %%~px > Represents the absolute path of the file (without the file name)
